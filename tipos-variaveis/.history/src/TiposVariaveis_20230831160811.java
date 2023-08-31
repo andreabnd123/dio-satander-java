@@ -4,6 +4,6 @@ public class App {
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal;
+        short numeroCurto2 = numeroNormal;
     }
 }

@@ -17,8 +17,7 @@ int modulo = 18 % 3;
 double resultado = (10*7) + (20/4);
 //concatenaçao
 String nomeCompleto = "LINGUAGEM" + "JAVA";
-    //operador aritimetico de soma ele faz concatenacao
-    String concatenacao = " "
+    
 }
 
 }

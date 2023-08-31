@@ -13,7 +13,5 @@ public class unarios {
        int numero = 5;
        numero ++;
        System.out.println(numero);
-       // numero = numero + 1 
-       
     }
 }

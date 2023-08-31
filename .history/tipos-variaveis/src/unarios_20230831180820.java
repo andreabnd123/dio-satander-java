@@ -11,9 +11,7 @@ public class unarios {
               // incremento
        //quando quero incrementar eu tenho um fluxo de repetiçao 
        int numero = 5;
-       numero ++;
+       numero = numero + 2;
        System.out.println(numero);
-       // numero = numero + 1 
-       
     }
 }

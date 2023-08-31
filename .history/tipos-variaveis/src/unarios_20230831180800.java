@@ -7,13 +7,21 @@ public class unarios {
         // valor incremento de valor (++) incrementa o valor em 1 unidade
         // valor de decremento de valor (--) decrementa o valor em uma unidade. 
         // operador unario logico de negacao - nega o valor de uma expressao (!)
-         
-              // incremento
+       int numero = 5;
+       
+       numero = - numero;
+
+
+       System.out.println(numero);
+
+       numero = + numero * -1;
+
+       System.out.println(numero);
+
+       // incremento
        //quando quero incrementar eu tenho um fluxo de repetiçao 
        int numero = 5;
-       numero ++;
+       numero = numero + 2;
        System.out.println(numero);
-       // numero = numero + 1 
-       
     }
 }

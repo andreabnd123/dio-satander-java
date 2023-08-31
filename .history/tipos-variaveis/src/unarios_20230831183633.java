@@ -18,9 +18,9 @@ public class unarios {
              // < caso condição seja false> 
 
             int a, b;
-            a = 6;
+            a = 5;
             b = 6;
-            String resultado = a == b ?"verdadeiro" : "falso";
+            String resultado = a==b ?"verdadeiro" : "falso";
             
             System.out.println(resultado);
 

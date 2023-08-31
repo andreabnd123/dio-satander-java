@@ -12,17 +12,9 @@ public class unarios {
        //quando quero incrementar eu tenho um fluxo de repetiçao 
              // numero = numero + 1 
 
-             //operador ternario - definir uma condição e escolher por um dentre dois valor.
-             //é representado pelo ponto de interrogação e :
-             // representado por <Expressao condicional>  ? <caso condição seja true> : 
-             // < caso condição seja false> 
+             boolean variavel = true;
 
-            int a, b;
-            a = 6;
-            b = 6;
-            String resultado = a == b ?"verdadeiro" : "falso";
-            
-            System.out.println(resultado);
+             System.out.println(!variavel);
 
     }
 }

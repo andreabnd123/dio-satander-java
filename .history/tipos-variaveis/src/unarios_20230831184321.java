@@ -28,44 +28,12 @@ public class unarios {
             // != verificar se uma variavel é diferente da outra
             // > maior que; >= maior igual; < menor; <= menor igual. 
             
-            //String nomeUm = "ANDREA";
-            //String nomeDois = "ANDREA";
+            int numero1 = 1;
+            int numero2 = 2;
 
-            //System.out.println(nomeUm.equals(nomeDois);
-            
-           // equals para objetos ou string melhor usar o equals
+            boolean simNao = numero1 == numero2;
 
-            //int numero1 = 1;
-            //int numero2 = 2;
-
-          // boolean simNao = numero1 == numero2;
-
-           //if(numero1 < numero2){
-            //System.out.println("a nossa condição é verdadeira");
-           
-
-            //System.out.println("numeroUm é igual a numeroDois" + simNao);
-
-            //simNao = numero1 != numero2;
-
-            //System.out.println("numeroUm é diferente a numeroDois" + simNao);
-//auxiliam na tomada de decisao 
-// operadores logicos representam o recurso que nos permite criar expressoes logicas maiores e a partir da junção
-// de duas ou mais expressões
-// && operador logico E
-// || opeardor logico "ou"
-
-//boolean condicao1 = true;
-
-//boolean condicao2 = false;
-
-//if(condicao1 && condicao2){
-  //  System.out.println("as duas condições são verdadeira");
-//}
-//if(condicao1 || condicao2){
-  //  System.out.println("uma das condições são verdadeiras.");
-//}
-//System.out.println("fim");
+            System.out.println("numeroUm é igual a numeroDois" + simNao);
 
     }
 }

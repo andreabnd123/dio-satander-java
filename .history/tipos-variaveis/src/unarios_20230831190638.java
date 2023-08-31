@@ -55,17 +55,17 @@ public class unarios {
 // && operador logico E
 // || opeardor logico "ou"
 
-//boolean condicao1 = true;
+boolean condicao1 = true;
 
-//boolean condicao2 = false;
+boolean condicao2 = false;
 
-//if(condicao1 && condicao2){
-  //  System.out.println("as duas condições são verdadeira");
-//}
-//if(condicao1 || condicao2){
-  //  System.out.println("uma das condições são verdadeiras.");
-//}
-//System.out.println("fim");
+if(condicao1 && condicao2){
+    System.out.println("as duas condições são verdadeira");
+}
+if(condicao1 || condicao2){
+    System.out.println("uma das condições são verdadeiras.");
+}
+System.out.println("fim");
 
     }
 }
